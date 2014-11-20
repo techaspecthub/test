@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-          phpinfo(); //add review comments here
+        phpinfo(); 
+        echo(something1);
         ?>
     </body>
 </html>
