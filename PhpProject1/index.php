@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         phpinfo(); 
-        echo(something1);// Commnet here.
+        echo(something1);
         ?>
     </body>
 </html>
